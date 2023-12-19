@@ -1,0 +1,51 @@
+/* Add your custom styles here */
+
+/* Body Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Navbar Styles */
+.navbar {
+    background-color: #fff; /* Change this to your desired navbar background color */
+    border-bottom: 1px solid #ddd; /* Add a border at the bottom if needed */
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #333; /* Change this to your desired navbar text color */
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #555; /* Change this to your desired navbar text color on hover */
+}
+
+/* Sidebar Styles */
+.sidebar-dark-primary {
+    background-color: #343a40; /* Change this to your desired sidebar background color */
+}
+
+.sidebar a {
+    color: #c2c7d0; /* Change this to your desired sidebar text color */
+}
+
+.sidebar a:hover {
+    color: #fff; /* Change this to your desired sidebar text color on hover */
+}
+
+.sidebar .brand-link {
+    border-bottom: 1px solid #4b545f; /* Add a border at the bottom of the brand link */
+}
+
+/* Content Wrapper Styles */
+.content-wrapper {
+    padding: 20px; /* Add padding to the content wrapper */
+}
+
+/* Footer Styles */
+.footer {
+    background-color: #343a40; /* Change this to your desired footer background color */
+    color: #fff; /* Change this to your desired footer text color */
+    padding: 10px; /* Add padding to the footer */
+}
+
+/* Add more styles as needed */
