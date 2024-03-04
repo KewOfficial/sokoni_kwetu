@@ -122,12 +122,7 @@
             <!-- Additional footer content -->
         </footer>
 
-        <!-- Control Sidebar -->
-        <aside class="control-sidebar control-sidebar-dark">
-            <!-- Additional control sidebar content -->
-        </aside>
-        <!-- /.control-sidebar -->
-
+      
     </div>
     <!-- ./wrapper -->
 
