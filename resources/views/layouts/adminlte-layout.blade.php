@@ -266,7 +266,7 @@
 
         <!-- Content Wrapper. Contains page content -->
         <div class="content-wrapper">
-            @yield('content') <!-- This is where your view content will be injected -->
+            @yield('content') 
         </div>
         <!-- /Content Wrapper -->
 
@@ -284,7 +284,7 @@
    <!-- Lazy Load Custom Scripts -->
    <script defer>
        document.addEventListener('DOMContentLoaded', function () {
-           // Add your lazy load logic here
+        
        });
    </script>
 </body>
